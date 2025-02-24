@@ -3,14 +3,14 @@
 Welcome to the **R3F Starter Project**! This template is designed to help you kickstart your journey with React Three Fiber (R3F) and create stunning 3D web applications with ease.
 
 ## Table of Contents 📚
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Available Scripts](#available-scripts)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#introduction-)
+- [Features](#features-)
+- [Getting Started](#getting-started-)
+- [Project Structure](#project-structure-)
+- [Available Scripts](#available-scripts-)
+- [Dependencies](#dependencies-)
+- [Contributing](#contributing-)
+- [License](#license-)
 
 ## Introduction 🌟
 
