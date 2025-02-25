@@ -6,7 +6,7 @@ Welcome to the **R3F Starter Project**! This template is designed to help you ki
 - [Introduction](#introduction-)
 - [Features](#features-)
 - [Getting Started](#getting-started-)
-- [Project Structure](#project-structure-)
+- [Project Structure](#project-structure-%EF%B8%8F)
 - [Available Scripts](#available-scripts-)
 - [Dependencies](#dependencies-)
 - [Contributing](#contributing-)
@@ -101,6 +101,10 @@ This project relies on the following key dependencies:
 - `react-dom`: ^18.3.1
 - `react-router-dom`: ^7.0.2
 - `three`: ^0.167.1
+
+## Tips 💡
+
+- You can use [This Site](https://gltf.pmnd.rs/) to quickly convert GLTF models into JSX components
 
 ## Contributing 🤝
 
